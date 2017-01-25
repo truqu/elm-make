@@ -1,0 +1,8 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- '.'
+- '../elm-compiler'
+- '../elm-package'
+extra-deps: []
+resolver: lts-6.27
